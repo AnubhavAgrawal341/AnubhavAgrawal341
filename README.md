@@ -1,6 +1,6 @@
 # **Anubhav Agrawal**
 
-Hi, I'm **Anubhav Agrawal**, a passionate **AI & Data Science** engineering student from **Ajeenkya DY Patil School of Engineering (ADYPSOE)**, affiliated with **Savitribai Phule Pune University (SPPU)**, Pune. I'm actively seeking opportunities where I can apply my skills and continue learning in the fields of **Artificial Intelligence, Data Science, and Software Development**.
+Hi, I'm **Anubhav Agrawal**, a passionate **Computer** engineering student from **Ajeenkya DY Patil School of Engineering and Technology (ADYPSOET)**, affiliated with **Savitribai Phule Pune University (SPPU)**, Pune. I'm actively seeking opportunities where I can apply my skills and continue learning in the fields of **Artificial Intelligence, Data Science, and Software Development**.
 
 ## 🚀 **Skills**
 
