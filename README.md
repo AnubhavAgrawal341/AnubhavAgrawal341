@@ -4,7 +4,7 @@ Hi, I'm **Anubhav Agrawal**, a passionate **Computer** engineering student from 
 
 ## 🚀 **Skills**
 
-- **Programming Languages**: Python, C++
+- **Programming Languages**: Python, SQL
 - **Web Technologies**: HTML, CSS, Django, Flask
 - **Data Analysis Tools**: Pandas, NumPy, Statistics
 - **Machine Learning**: Building AI models, feature engineering, and data processing
